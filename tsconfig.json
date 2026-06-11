@@ -1,0 +1,6 @@
+{
+  "files": [],
+  "lib": ["esnext", "dom"],
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {}
+}
